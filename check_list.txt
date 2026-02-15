@@ -1,0 +1,11 @@
+
+1. write -->   uv init in the terminal for initializing project it give 5 files 
+
+2. uv python list -->  It will list all the python , cpytjon version to choose for your project
+
+3. uv venv myenv --python cpython-3.13.12-windows-x86_64-none for creating virtual environment ..
+
+4.  myenv\Scripts\activate     to activate the myenv  you created
+
+5. add .env , .env.local , venv in gitignore etc which u dont want to push or commit in repos
+
