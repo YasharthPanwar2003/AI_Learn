@@ -9,3 +9,9 @@
 
 5. add .env , .env.local , venv in gitignore etc which u dont want to push or commit in repos
 
+6. commit the all fiels over github repo 
+
+7. create test.ipynb file and in that write any code and  select the kernel 
+
+8. install the ipykernerl    uv pip install ipykernel
+
